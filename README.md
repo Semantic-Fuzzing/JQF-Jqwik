@@ -13,4 +13,10 @@ JQwikPitest и ZestPitest - архивы для запуска мутацион�
 Ссылки на репозитории инструментов:
 https://github.com/rohanpadhye/JQF?tab=readme-ov-file - Rohan Padhye, JQF + Zest: Semantic Fuzzing for Java.
 
+https://github.com/jqwik-team/jqwik - Jqwik
+
+https://github.com/pholser/junit-quickcheck - Junit-Quickcheck
+
+https://github.com/quicktheories/QuickTheories - QuickTheories
+
 
