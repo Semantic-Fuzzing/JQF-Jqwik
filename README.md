@@ -10,3 +10,7 @@ Translators - трансляторы из Jqwik в Zest и наоборот. Д�
 
 JQwikPitest и ZestPitest - архивы для запуска мутационного тестирования на Pitest.
 
+Ссылки на репозитории инструментов:
+https://github.com/rohanpadhye/JQF?tab=readme-ov-file - Rohan Padhye, JQF + Zest: Semantic Fuzzing for Java.
+
+
